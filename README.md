@@ -7,7 +7,7 @@ data! Use the below gif as an example of how the app should function.
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
-## Instructions
+## Instructions --
 
 For this project, you’ll be building out a React application that displays a
 list of your recent bank transactions, among other features.
